@@ -70,7 +70,7 @@ To make a long story short, we exerted the following contraints (color filters) 
 
 A sample output of this step:
 <p style="text-align: center;">
-    <img src="Mfigure4.png" width="500" />
+    <img src="Demo/Mfigure4.png" width="500" />
     <p style="text-align: center;">Figure 4: Processed result after this step</p>
 </p>
 
@@ -82,7 +82,7 @@ Since the results output by previous step are prone to carry with some disordere
 A sample output of this step:
 ![fig5](Demo/Mfigure5.png)
 <p style="text-align: center;">
-    <img src="Mfigure5.png" width="500" />
+    <img src="Demo/Mfigure5.png" width="500" />
     <p style="text-align: center;">Figure 5: Processed result after this step</p>
 </p>
 
@@ -93,7 +93,7 @@ We are now able conclude that this operation can cause the bright region within 
 
 A sample output of this step:
 <p style="text-align: center;">
-    <img src="Mfigure6.png" width="500" />
+    <img src="Demo/Mfigure6.png" width="500" />
     <p style="text-align: center;">Figure 6: Processed result after this step</p>
 </p>
 
@@ -104,7 +104,7 @@ Note here that we may possibly find out many contours from Figure6 since the mis
 
 A sample output of this step:
 <p style="text-align: center;">
-    <img src="Mfigure7.png" width="500" />
+    <img src="Demo/Mfigure7.png" width="500" />
     <p style="text-align: center;">Figure 7: Processed result after this step</p>
 </p>
 
@@ -117,7 +117,7 @@ Again we invoke OpenCV “convexHall” function to help us achieve this goal. T
 
 A sample output of this step:
 <p style="text-align: center;">
-    <img src="Mfigure8.png" width="500" />
+    <img src="Demo/Mfigure8.png" width="500" />
     <p style="text-align: center;">Figure 8: Processed result after this step</p>
 </p>
 
