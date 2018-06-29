@@ -62,7 +62,9 @@ There already existed a bulk of research conducted by scientists from various fi
 
 In addition to the most popular mentioned RGB color model, some color spaces have their luminance component separated from the chromatic component, and they are known to possess higher discriminability between skin pixels and non-skin pixels over various illumination conditions. HCbCr and HSV are models of such kind. Figure2 and Figure3 shown below are images in HSV and HCbCr color mode converting from the primitive RGB image Figure1.
 
-![RGB](Demo/Mfigure1.png =200x) ![HSV](Demo/Mfigure2.png) ![HCbCr](Demo/Mfigure3.png)
+<img src="Mfigure1.png" width="300"/>
+<img src="Mfigure2.png" width="300"/>
+<img src="Mfigure3.png" width="300" />
 
 To make a long story short, we exerted the following contraints (color filters) to identify skin color pixels from the original RGB image by converting, if necessary, the primitive input into HCbCr and HSV color model separately.
 
